@@ -1,4 +1,4 @@
-const CACHE = "moj-split-v2";
+const CACHE = "moj-split-v3";
 const ASSETS = [
   "./index.html",
   "./style.css",
