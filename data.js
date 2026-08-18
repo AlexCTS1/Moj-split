@@ -55,7 +55,7 @@ const SPLIT = [
         ]
       },
       {
-        name: "Arnold press (Arnoldov potisak)",
+        name: "Arnold press",
         sets: 3, reps: "5–8", rir: "1–2", rest: "2 min",
         goal: "Prednje i srednje rame · Triceps",
         how: [
