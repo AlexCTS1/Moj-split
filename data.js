@@ -216,17 +216,6 @@ const SPLIT = [
         tips: []
       },
       {
-        name: "Seated cable row",
-        sets: 3, reps: "8–12", rir: "1–2", rest: "90 s",
-        goal: "Ledja",
-        how: [
-          "Sjedni, uhvati rucku, koljena lagano savijena.",
-          "Povuci rucku prema trbuhu.",
-          "Kontrolirano vrati naprijed."
-        ],
-        tips: ["Ne ljuljaj se naprijed-natrag"]
-      },
-      {
         name: "Machine chest press",
         sets: 2, reps: "10–12", rir: "1", rest: "90 s",
         goal: "Prsa",
