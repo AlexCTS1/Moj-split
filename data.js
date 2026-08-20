@@ -213,17 +213,6 @@ const SPLIT = [
         tips: []
       },
       {
-        name: "Seated cable row",
-        sets: 3, reps: "8–12", rir: "1–2", rest: "90 s",
-        goal: "Ledja",
-        how: [
-          "Sjedni, uhvati rucku, koljena lagano savijena.",
-          "Povuci rucku prema trbuhu.",
-          "Kontrolirano vrati naprijed."
-        ],
-        tips: ["Ne ljuljaj se naprijed-natrag"]
-      },
-      {
         name: "Pec deck (Chest fly stroj)",
         sets: 3, reps: "10–12", rir: "1", rest: "90 s",
         goal: "Prsa (izolacija)",
@@ -273,7 +262,7 @@ const SPLIT = [
         ]
       },
       {
-        name: "EZ-bar skull crusher (Francuski potisak)",
+        name: "EZ-bar skull crusher",
         sets: 3, reps: "10–15", rir: "0–1", rest: "60 s",
         goal: "Triceps (sve tri glave, naglasak na dugoj)",
         how: [
