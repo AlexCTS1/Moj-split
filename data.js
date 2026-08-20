@@ -55,18 +55,22 @@ const SPLIT = [
         ]
       },
       {
-        name: "Seated shoulder press",
+        name: "Arnold press",
         sets: 3, reps: "5–8", rir: "1–2", rest: "2 min",
-        goal: "Ramena · Triceps",
+        goal: "Prednje i srednje rame · Triceps",
         how: [
-          "Sjedni na spravu za ramena, rucke u visini ramena.",
-          "Guraj rucke prema gore dok ruke ne budu skoro ispruzene.",
-          "Kontrolirano spusti natrag."
+          "Sjedni na klupu s naslonom podignutim na 90 stupnjeva.",
+          "Drži bućice ispred prsa s dlanovima okrenutim prema sebi.",
+          "Potiskuj bućice prema gore dok istovremeno rotiraš podlaktice.",
+          "U gornjem položaju dlanovi moraju biti okrenuti prema naprijed.",
+          "Kontrolirano spuštaj bućice natrag i rotiraj dlanove u početni položaj."
         ],
         tips: [
-          "Ledja drzi uz naslon",
-          "Ne izvijaj donji dio ledja"
+          "Nemoj raditi nagle pokrete tijekom rotacije",
+          "Čvrsto stisni trbuh i drži leđa ravno uz naslon",
+          "Nemoj potpuno zaključavati laktove na samom vrhu"
         ]
+
       },
       {
         name: "Incline dumbbell press",
