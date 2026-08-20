@@ -277,7 +277,7 @@ const SPLIT = [
         ]
       },
       {
-        name: "EZ-bar skull crusher (Francuski potisak)",
+        name: "EZ-bar skull crusher",
         sets: 2, reps: "10–15", rir: "0–1", rest: "60 s",
         goal: "Triceps (sve tri glave, naglasak na dugoj)",
         how: [
